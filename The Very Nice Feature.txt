@@ -1,1 +1,1 @@
-This feature is almost done, but will not be in time for the next release
+This very nice feature is now done
